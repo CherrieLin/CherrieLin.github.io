@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>site title</title>
-    <link>your_site_url_address/</link>
+    <link>https://cherrielin.github.io/</link>
     <description>Recent content on site title</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 19 Mar 2018 21:43:11 +0800</lastBuildDate>
     
-	<atom:link href="your_site_url_address/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://cherrielin.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>First</title>
-      <link>your_site_url_address/first/</link>
+      <link>https://cherrielin.github.io/first/</link>
       <pubDate>Mon, 19 Mar 2018 21:43:11 +0800</pubDate>
       
-      <guid>your_site_url_address/first/</guid>
+      <guid>https://cherrielin.github.io/first/</guid>
       <description> 你好 hello nihao world my first blog  </description>
     </item>
     

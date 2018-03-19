@@ -3,22 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>your_site_url_address/first/</loc>
+    <loc>https://cherrielin.github.io/first/</loc>
     <lastmod>2018-03-19T21:43:11+08:00</lastmod>
   </url>
   
   <url>
-    <loc>your_site_url_address/categories/</loc>
+    <loc>https://cherrielin.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>your_site_url_address/tags/</loc>
+    <loc>https://cherrielin.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>your_site_url_address/</loc>
+    <loc>https://cherrielin.github.io/</loc>
     <lastmod>2018-03-19T21:43:11+08:00</lastmod>
     <priority>0</priority>
   </url>
